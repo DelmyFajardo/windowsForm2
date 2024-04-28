@@ -1,0 +1,10 @@
+C:\Users\delmy\Desktop\windows form2\desafio2\bin\Debug\desafio2.exe.config
+C:\Users\delmy\Desktop\windows form2\desafio2\bin\Debug\desafio2.exe
+C:\Users\delmy\Desktop\windows form2\desafio2\bin\Debug\desafio2.pdb
+C:\Users\delmy\Desktop\windows form2\desafio2\obj\Debug\desafio2.csproj.AssemblyReference.cache
+C:\Users\delmy\Desktop\windows form2\desafio2\obj\Debug\desafio2.Form1.resources
+C:\Users\delmy\Desktop\windows form2\desafio2\obj\Debug\desafio2.Properties.Resources.resources
+C:\Users\delmy\Desktop\windows form2\desafio2\obj\Debug\desafio2.csproj.GenerateResource.cache
+C:\Users\delmy\Desktop\windows form2\desafio2\obj\Debug\desafio2.csproj.CoreCompileInputs.cache
+C:\Users\delmy\Desktop\windows form2\desafio2\obj\Debug\desafio2.exe
+C:\Users\delmy\Desktop\windows form2\desafio2\obj\Debug\desafio2.pdb
